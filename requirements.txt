@@ -1,0 +1,9 @@
+camel-ai
+requests
+PyYAML
+pandas
+numpy
+sqlalchemy
+openai
+oauth-requests
+streamlit
