@@ -108,7 +108,7 @@ intel-patch/
 
 * **Camel-AI** – OWL protocol + agent orchestration
 * **Ollama** – Local LLM inference (Mistral, LLaMA3)
-* **OpenAI** – Cloud LLM fallback (ChatGPT, GPT-4)
+* **TogetherAI** – Cloud LLM fallback (DeepSeek V3)
 * **Python** – Core glue, subprocess sandboxing
 * **Docker (optional)** – Sandboxed execution environment
 
